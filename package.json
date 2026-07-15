@@ -1,0 +1,12 @@
+{
+  "name": "cross-platform-sleep-blocker",
+  "version": "1.0.0",
+  "description": "A tiny Electron app to turn display sleep prevention on and off.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^35.0.0"
+  }
+}
